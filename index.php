@@ -10,7 +10,7 @@
 
     // DISPLAY 2/3 Display an HTML row (see includes/nav.html) and a title
     echo '
-      <h2>Nieves\'s shop</h2>
+      <h2>My shop</h2>
       <div class="row">';
 
     // Retrieve items from products database table to fill that row
